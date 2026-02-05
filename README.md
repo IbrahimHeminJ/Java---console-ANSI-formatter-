@@ -191,8 +191,8 @@ Prepend `BRIGHT_` to color constants (e.g., `BRIGHT_RED`, `BRIGHT_RED_BACKGROUND
 
 ## License
 
-Copyright © Hasarasoft 2024-2026
-Contact: ibrahimheminj.github.io
+Copyright © Hasarasoft 2024-2026     
+Contact: https://ibrahimheminj.github.io/
 
 ## Contributing
 
