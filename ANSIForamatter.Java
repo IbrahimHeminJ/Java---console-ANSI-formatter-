@@ -9,7 +9,7 @@ Date: 2026-02-05
 Copyright: Hasarasoft © 2024-2026. All rights reserved.
 Contact: ibrahimheminj.github.io
 */
-public class ANSI {
+public class ANSIForamatter{
     public static final String RESET = "\u001B[0m"; // Reset all attributes
 
     // Text Colors
@@ -394,3 +394,4 @@ public class ANSI {
 //Please Point out defects for future Improvements
 
 }
+
